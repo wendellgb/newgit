@@ -6,5 +6,5 @@ int main(){
 	int sum;
 	sum = 22 + 22;
 	cout << sum << endl;
-	cout << "this is pretty fricken awesome" << endl;
+	cout << "this is pretty fricken awesome lol" << endl;
 }
