@@ -7,4 +7,6 @@ int main(){
 	sum = 22 + 22;
 	cout << sum << endl;
 	cout << "this is pretty fricken awesome lol" << endl;
+
+	cout << "this line is not in master branch" << endl;
 }
